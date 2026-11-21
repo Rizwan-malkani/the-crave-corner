@@ -1,0 +1,194 @@
+{
+  "phone": "923309996463",
+  "areas": [
+    {
+      "name": "Garden",
+      "price": 200
+    },
+    {
+      "name": "Saddar",
+      "price": 200
+    },
+    {
+      "name": "Soldier bazar",
+      "price": 250
+    },
+    {
+      "name": "Lasbella",
+      "price": 150
+    }
+  ],
+  "items": [
+    {
+      "id": 4,
+      "name": "6 Brownies",
+      "category": "Fudge Brownies",
+      "price": 850,
+      "description": "",
+      "image": "https://kommodo.ai/i/Ql9aJ5FOHn1VnTLZJ0m0",
+      "emoji": "🍫"
+    },
+    {
+      "id": 5,
+      "name": "10 Brownie Bites",
+      "category": "Brownie Bites",
+      "price": 400,
+      "description": "",
+      "image": "https://kommodo.ai/i/fBirIBbTiOUpGO0Z20p5",
+      "emoji": "🍫"
+    },
+    {
+      "id": 6,
+      "name": "10 Brownie Bites with Sauce",
+      "category": "Brownie Bites",
+      "price": 450,
+      "description": "",
+      "image": "https://kommodo.ai/i/fBirIBbTiOUpGO0Z20p5",
+      "emoji": "🍫"
+    },
+    {
+      "id": 7,
+      "name": "Finger Chicks (4 pieces)",
+      "category": "Finger Chicks",
+      "price": 420,
+      "description": "With complimentary sauce",
+      "image": "https://kommodo.ai/i/C7F3L9h2RZGrmpf65qF3",
+      "emoji": "🍗"
+    },
+    {
+      "id": 8,
+      "name": "Finger Chicks (6 pieces)",
+      "category": "Finger Chicks",
+      "price": 620,
+      "description": "With complimentary sauce",
+      "image": "https://kommodo.ai/i/C7F3L9h2RZGrmpf65qF3",
+      "emoji": "🍗"
+    },
+    {
+      "id": 9,
+      "name": "Pizza Fries (Small)",
+      "category": "Pizza Fries",
+      "price": 400,
+      "description": "",
+      "image": "https://kommodo.ai/i/v70kd9lRQotm26us55Vx",
+      "emoji": "🍟"
+    },
+    {
+      "id": 10,
+      "name": "Pizza Fries (Large)",
+      "category": "Pizza Fries",
+      "price": 500,
+      "description": "",
+      "image": "https://kommodo.ai/i/v70kd9lRQotm26us55Vx",
+      "emoji": "🍟"
+    },
+    {
+      "id": 11,
+      "name": "Mac and Cheese",
+      "category": "Mac and Cheese",
+      "price": 600,
+      "description": "",
+      "image": "https://kommodo.ai/i/m2HvgnjyNQIfM3LdAscv",
+      "emoji": "🧀"
+    },
+    {
+      "id": 12,
+      "name": "1 Mini Pizza",
+      "category": "Mini Pizza",
+      "price": 160,
+      "description": "",
+      "image": "https://kommodo.ai/i/nd2fjIr5ZH0TNT6GHJkI",
+      "emoji": "🍕"
+    },
+    {
+      "id": 13,
+      "name": "6 Mini Pizzas",
+      "category": "Mini Pizza",
+      "price": 950,
+      "description": "",
+      "image": "https://kommodo.ai/i/nd2fjIr5ZH0TNT6GHJkI",
+      "emoji": "🍕"
+    },
+    {
+      "id": 14,
+      "name": "Extra Sauce",
+      "category": "Extras",
+      "price": 50,
+      "emoji": "🥣",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 15,
+      "name": "Chicken Cheese Steamed Dumplings (6 pieces)",
+      "category": "Dumplings",
+      "price": 550,
+      "description": "Complimentary chutney & chili oil",
+      "image": "https://kommodo.ai/i/7YZ8sgAxw0TPJx8LcqwD",
+      "emoji": "🥟"
+    },
+    {
+      "id": 16,
+      "name": "Chicken Cheese Steamed Dumplings (12 pieces)",
+      "category": "Dumplings",
+      "price": 1100,
+      "description": "Complimentary chutney & chili oil",
+      "image": "https://kommodo.ai/i/7YZ8sgAxw0TPJx8LcqwD",
+      "emoji": "🥟"
+    },
+    {
+      "id": 17,
+      "name": "Chicken Cheese Pan Fried Dumplings (6 pieces)",
+      "category": "Dumplings",
+      "price": 580,
+      "description": "Complimentary chutney & chili oil",
+      "image": "https://kommodo.ai/i/BDRsiuZB5taOzDfJ2kMn",
+      "emoji": "🥟"
+    },
+    {
+      "id": 18,
+      "name": "Chicken Cheese Pan Fried Dumplings (12 pieces)",
+      "category": "Dumplings",
+      "price": 1160,
+      "description": "Complimentary chutney & chili oil",
+      "image": "https://kommodo.ai/i/BDRsiuZB5taOzDfJ2kMn",
+      "emoji": "🥟"
+    },
+    {
+      "id": 19,
+      "name": "Hotpot (1–2 persons)",
+      "category": "Hotpot",
+      "price": 1200,
+      "emoji": "🍲",
+      "description": "Broth, noodles, 2 sausages, 2 dumplings, sweet corn, 2 corn, green onions",
+      "image": ""
+    },
+    {
+      "id": 20,
+      "name": "Chili Oil Add-on",
+      "category": "Extras",
+      "price": 50,
+      "emoji": "🌶️",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 21,
+      "name": "Chutney Add-on",
+      "category": "Extras",
+      "price": 50,
+      "emoji": "🥣",
+      "description": "",
+      "image": ""
+    },
+    {
+      "id": 1795255197474,
+      "name": "Chocolate dip",
+      "category": "Brownies",
+      "price": 50,
+      "description": "",
+      "image": "",
+      "emoji": "🍫"
+    }
+  ]
+}
